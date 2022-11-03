@@ -1,0 +1,25 @@
+body {
+	background-color: lightcyan;
+}
+
+h1 {
+	font-family: "cursive;", lucida handwriting;
+	color: blue;
+	font-size: 400%;
+}
+h2 {
+	font-family: "apple chancery", cursive;
+	color: blue;
+	font-size: 200%;
+}
+p {
+	font-family: "apple chancery", cursive;
+	color: darkslategray;
+	font-size: 100%;
+}
+img {
+	width: 200px;
+	border: 20px blue;
+	border-radius: 20px;
+
+}
